@@ -1,1 +1,3 @@
 Đổi đuôi file .txt thành .env
+- Tạo file node_modules (lệnh npm install)
+- Cài thư viện (npm ls) 
